@@ -1,4 +1,6 @@
-### Hi there 👋
+<div>
+  <h1 align="center">Olá <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Me chamo João Paulo</h1>
+</div>
 
 <!--
 **jonpaulo007/jonpaulo007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,30 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 📊 Meu Github Stats
+<div>
+  <a href="https://github.com/jonpaulo007/jonpaulo007.git"><img alt="João Github Stats" height="180em" src="https://github-readme-stats.vercel.app/api?username=jonpaulo007&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/></a>
+  <a href="https://github.com/jonpaulo007/jonpaulo007.git"><img alt="João Top Languages" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonpaulo007&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+</div>
+
+<b>Nota:</b> As principais linguagens são apenas uma métrica das linguagens em que meu código público consiste e não refletem a experiência ou o nível de habilidade.
+
+## 🚀 Linguagens e Ferramentas:
+<div style="display: inline_block">
+  <img align="center" alt="JP-HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>  
+  <img align="center" alt="JP-CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> 
+</div>
+
+###### OBS: Existem outras linguagens que estou estudando e me aperfeiçoando por isso não estão aqui mais essas são as que mais estou utilizando no momento.
+
+### Conecte-se comigo:
+<div>
+  <a href="https://api.whatsapp.com/send?phone=5582996647004" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+  <a href="https://discord.gg/FuHhf86HCE" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="https://www.instagram.com/jpcavalcante__/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/joao-paulo25/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</div>
+
+
