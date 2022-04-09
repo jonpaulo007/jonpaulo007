@@ -24,13 +24,13 @@ Here are some ideas to get you started:
   <br/>
 </div>
 
+<b>Nota:</b> As principais linguagens são apenas uma métrica das linguagens em que meu código público consiste e não refletem a experiência ou o nível de habilidade.
+
 ## 🚀 Linguagens e Ferramentas:
 <div style="display: inline_block">
   <img align="center" alt="JP-HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>  
   <img align="center" alt="JP-CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> 
 </div>
-
-###### OBS: Existem outras linguagens que estou estudando e me aperfeiçoando por isso não estão aqui mais essas são as que mais estou utilizando no momento.
 
 ### Conecte-se comigo:
 <div>
