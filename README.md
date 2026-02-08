@@ -18,14 +18,14 @@ Here are some ideas to get you started:
 -->
 
 ## 📊 Meu Github Stats
-<div>
+<!--<div>
   <a href="https://github.com/jonpaulo007/jonpaulo007.git"><img alt="João Github Stats" height="180em" src="https://github-readme-stats.vercel.app/api?username=jonpaulo007&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/></a>
   <a href="https://github.com/jonpaulo007/jonpaulo007.git"><img alt="João Top Languages" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonpaulo007&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
 </div>
 
 <b>Nota:</b> As principais linguagens são apenas uma métrica das linguagens em que meu código público consiste e não refletem a experiência ou o nível de habilidade.
-
+-->
 ## 🚀 Linguagens e Ferramentas:
 <div style="display: inline_block">
   <img align="center" alt="JP-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>  
